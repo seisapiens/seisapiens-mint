@@ -21,7 +21,7 @@
             "name": "OG",
             "merkle_root": "a5eb0e13d3a41750d56ed6c412de2debb9387447102cf8cda9bc59ecee48d465",
             "max_tokens": 1,
-            "unit_price": 1,
+            "unit_price": 5,
             "creators": [
                 {
                     "address": "sei1xzzq0xjkzkl9ryrd98kmmqudu0eez3y3p7tvzj",
@@ -36,7 +36,7 @@
             "name": "whitelist",
             "merkle_root": "643dc9dd6b1c5d68e4331dae884397b3a3d59a993894465d6a79db158c662055",
             "max_tokens": 2,
-            "unit_price": 1,
+            "unit_price": 7,
             "creators": [
                 {
                     "address": "sei1xzzq0xjkzkl9ryrd98kmmqudu0eez3y3p7tvzj",
@@ -51,7 +51,7 @@
             "name": "public",
             "merkle_root": null,
             "max_tokens": 1,
-            "unit_price": 1,
+            "unit_price": 9,
             "creators": [
                 {
                     "address": "sei1xzzq0xjkzkl9ryrd98kmmqudu0eez3y3p7tvzj",
