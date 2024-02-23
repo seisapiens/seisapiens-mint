@@ -1,0 +1,30 @@
+{
+  "name": "SEI SAPIENS #488",
+  "description": "Collection of 555 most adorable Sapiens comming on SEI",
+  "image": "488.png",
+  "edition": 488,
+  "date": 1708376277396,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Light Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reddish"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Blue Inner"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Blue Cap"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Glasses"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

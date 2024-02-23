@@ -1,0 +1,30 @@
+{
+  "name": "SEI SAPIENS #542",
+  "description": "Collection of 555 most adorable Sapiens comming on SEI",
+  "image": "542.png",
+  "edition": 542,
+  "date": 1708376357058,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Pale Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reddish"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "White Shirt"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Cool Cap"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Glasses"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "SEI SAPIENS #344",
+  "description": "Collection of 555 most adorable Sapiens comming on SEI",
+  "image": "344.png",
+  "edition": 344,
+  "date": 1708376068535,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Light Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Green Tshirt"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Rainbow Cap"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Blank"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

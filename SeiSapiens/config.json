@@ -1,0 +1,66 @@
+{
+    "mnemonic": "step hidden order cross salad nephew tissue foot public street desk elite",
+    "rpc": "https://sei-rpc.polkachu.com/",
+    "network": "pacific-1",
+    "name": "Sei Sapiens",
+    "symbol": "SAPIENS",
+    "description": "Collection of 555 most adorable Sapiens comming on SEI",
+    "supply": 555,
+    "token_uri": "https://arweave.net/d_n4w6ZlddWGHlh780EqNFz61T3JWxbZwEUeNh8SfnY",
+    "royalty_percent": 9,
+    "royalty_wallet": "sei1xzzq0xjkzkl9ryrd98kmmqudu0eez3y3p7tvzj",
+    "iterated_uri": false,
+    "start_order": 1,
+    "frozen": false,
+    "hidden_metadata": false,
+    "placeholder_token_uri": null,
+    "groups": [
+
+
+        {
+            "name": "OG",
+            "merkle_root": "a5eb0e13d3a41750d56ed6c412de2debb9387447102cf8cda9bc59ecee48d465",
+            "max_tokens": 1,
+            "unit_price": 1,
+            "creators": [
+                {
+                    "address": "sei1xzzq0xjkzkl9ryrd98kmmqudu0eez3y3p7tvzj",
+                    "share": 100
+                }
+            ],
+            "start_time": "2024-02-20T11:06:02Z",
+            "end_time": null
+        }, 
+
+        {
+            "name": "whitelist",
+            "merkle_root": "643dc9dd6b1c5d68e4331dae884397b3a3d59a993894465d6a79db158c662055",
+            "max_tokens": 2,
+            "unit_price": 1,
+            "creators": [
+                {
+                    "address": "sei1xzzq0xjkzkl9ryrd98kmmqudu0eez3y3p7tvzj",
+                    "share": 100
+                }
+            ],
+            "start_time": "2024-02-22T10:06:02Z",
+            "end_time": null
+        },
+       
+      {
+            "name": "public",
+            "merkle_root": null,
+            "max_tokens": 1,
+            "unit_price": 1,
+            "creators": [
+                {
+                    "address": "sei1xzzq0xjkzkl9ryrd98kmmqudu0eez3y3p7tvzj",
+                    "share": 100
+                }
+            ],
+            "start_time": "2024-02-20T11:06:02Z",
+            "end_time": null
+        }
+        
+    ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "SEI SAPIENS #240",
+  "description": "Collection of 555 most adorable Sapiens comming on SEI",
+  "image": "240.png",
+  "edition": 240,
+  "date": 1708375919094,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellowish"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Red Shirt"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Rainbow Cap"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Itemless"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

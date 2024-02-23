@@ -1,0 +1,30 @@
+{
+  "name": "SEI SAPIENS #166",
+  "description": "Collection of 555 most adorable Sapiens comming on SEI",
+  "image": "166.png",
+  "edition": 166,
+  "date": 1708375816837,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "White Inner"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Green Cap"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Blank"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "SEI SAPIENS #3",
+  "description": "Collection of 555 most adorable Sapiens comming on SEI",
+  "image": "3.png",
+  "edition": 3,
+  "date": 1708375585701,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Light Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "White Inner"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Half Cap"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Itemless"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
